@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\buber\\Desktop\\c# odner\\stundenmanager\\",
+  "WorkspaceRootPath": "D:\\C# projekte\\stundenmanager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|c:\\users\\buber\\desktop\\c# odner\\stundenmanager\\stundenmanager\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|solutionrelative:stundenmanager\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|D:\\C# projekte\\stundenmanager\\stundenmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|solutionrelative:stundenmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|c:\\users\\buber\\desktop\\c# odner\\stundenmanager\\stundenmanager\\mainmen\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|solutionrelative:stundenmanager\\mainmen\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|c:\\users\\buber\\desktop\\c# odner\\stundenmanager\\stundenmanager\\mainmen\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|solutionrelative:stundenmanager\\mainmen\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|c:\\users\\buber\\desktop\\c# odner\\stundenmanager\\stundenmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|solutionrelative:stundenmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|c:\\users\\buber\\desktop\\c# odner\\stundenmanager\\stundenmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|D:\\C# projekte\\stundenmanager\\stundenmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|solutionrelative:stundenmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|c:\\users\\buber\\desktop\\c# odner\\stundenmanager\\stundenmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|solutionrelative:stundenmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|D:\\C# projekte\\stundenmanager\\stundenmanager\\mainmen\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|solutionrelative:stundenmanager\\mainmen\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|D:\\C# projekte\\stundenmanager\\stundenmanager\\mainmen\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|solutionrelative:stundenmanager\\mainmen\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|d:\\c# projekte\\stundenmanager\\stundenmanager\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|solutionrelative:stundenmanager\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|D:\\C# projekte\\stundenmanager\\stundenmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F93159F-5844-48FC-B7AB-0661337D9AA4}|stundenmanager\\stundenmanager.csproj|solutionrelative:stundenmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,83 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "mainmen\u00FC.cs",
-              "DocumentMoniker": "C:\\Users\\buber\\Desktop\\c# odner\\stundenmanager\\stundenmanager\\mainmen\u00FC.cs",
+              "DocumentMoniker": "D:\\C# projekte\\stundenmanager\\stundenmanager\\mainmen\u00FC.cs",
               "RelativeDocumentMoniker": "stundenmanager\\mainmen\u00FC.cs",
-              "ToolTip": "C:\\Users\\buber\\Desktop\\c# odner\\stundenmanager\\stundenmanager\\mainmen\u00FC.cs",
+              "ToolTip": "D:\\C# projekte\\stundenmanager\\stundenmanager\\mainmen\u00FC.cs",
               "RelativeToolTip": "stundenmanager\\mainmen\u00FC.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAewBMAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAIAwwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T10:11:01.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "mainmen\u00FC.cs [Entwurf]",
-              "DocumentMoniker": "C:\\Users\\buber\\Desktop\\c# odner\\stundenmanager\\stundenmanager\\mainmen\u00FC.cs",
+              "DocumentIndex": 3,
+              "Title": "mainmen\u00FC.cs [Design]",
+              "DocumentMoniker": "D:\\C# projekte\\stundenmanager\\stundenmanager\\mainmen\u00FC.cs",
               "RelativeDocumentMoniker": "stundenmanager\\mainmen\u00FC.cs",
-              "ToolTip": "C:\\Users\\buber\\Desktop\\c# odner\\stundenmanager\\stundenmanager\\mainmen\u00FC.cs [Entwurf]",
-              "RelativeToolTip": "stundenmanager\\mainmen\u00FC.cs [Entwurf]",
+              "ToolTip": "D:\\C# projekte\\stundenmanager\\stundenmanager\\mainmen\u00FC.cs [Design]",
+              "RelativeToolTip": "stundenmanager\\mainmen\u00FC.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T10:02:44.407Z",
-              "EditorCaption": " [Entwurf]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "loginform.cs",
-              "DocumentMoniker": "C:\\Users\\buber\\Desktop\\c# odner\\stundenmanager\\stundenmanager\\loginform.cs",
+              "DocumentMoniker": "D:\\C# projekte\\stundenmanager\\stundenmanager\\loginform.cs",
               "RelativeDocumentMoniker": "stundenmanager\\loginform.cs",
-              "ToolTip": "C:\\Users\\buber\\Desktop\\c# odner\\stundenmanager\\stundenmanager\\loginform.cs",
+              "ToolTip": "D:\\C# projekte\\stundenmanager\\stundenmanager\\loginform.cs",
               "RelativeToolTip": "stundenmanager\\loginform.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T09:09:24.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "dbconn.cs",
-              "DocumentMoniker": "C:\\Users\\buber\\Desktop\\c# odner\\stundenmanager\\stundenmanager\\dbconn.cs",
+              "DocumentMoniker": "D:\\C# projekte\\stundenmanager\\stundenmanager\\dbconn.cs",
               "RelativeDocumentMoniker": "stundenmanager\\dbconn.cs",
-              "ToolTip": "C:\\Users\\buber\\Desktop\\c# odner\\stundenmanager\\stundenmanager\\dbconn.cs",
+              "ToolTip": "D:\\C# projekte\\stundenmanager\\stundenmanager\\dbconn.cs",
               "RelativeToolTip": "stundenmanager\\dbconn.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowDIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T08:57:35.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\buber\\Desktop\\c# odner\\stundenmanager\\stundenmanager\\Program.cs",
+              "DocumentMoniker": "D:\\C# projekte\\stundenmanager\\stundenmanager\\Program.cs",
               "RelativeDocumentMoniker": "stundenmanager\\Program.cs",
-              "ToolTip": "C:\\Users\\buber\\Desktop\\c# odner\\stundenmanager\\stundenmanager\\Program.cs",
+              "ToolTip": "D:\\C# projekte\\stundenmanager\\stundenmanager\\Program.cs",
               "RelativeToolTip": "stundenmanager\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T07:28:39.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T07:28:39.233Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "loginform.cs [Entwurf]",
-              "DocumentMoniker": "C:\\Users\\buber\\Desktop\\c# odner\\stundenmanager\\stundenmanager\\loginform.cs",
+              "DocumentIndex": 0,
+              "Title": "loginform.cs [Design]",
+              "DocumentMoniker": "D:\\C# projekte\\stundenmanager\\stundenmanager\\loginform.cs",
               "RelativeDocumentMoniker": "stundenmanager\\loginform.cs",
-              "ToolTip": "C:\\Users\\buber\\Desktop\\c# odner\\stundenmanager\\stundenmanager\\loginform.cs [Entwurf]",
-              "RelativeToolTip": "stundenmanager\\loginform.cs [Entwurf]",
+              "ToolTip": "D:\\C# projekte\\stundenmanager\\stundenmanager\\loginform.cs [Design]",
+              "RelativeToolTip": "stundenmanager\\loginform.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T06:43:31.245Z",
-              "EditorCaption": " [Entwurf]"
+              "EditorCaption": " [Design]"
             }
           ]
         }

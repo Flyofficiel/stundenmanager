@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MySqlConnector;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,7 +20,33 @@ namespace stundenmanager
 
         private void mainmenü_Load(object sender, EventArgs e)
         {
-            dataGridView1.DataSource= 
+            getlehrer();
+        }
+        private void getlehrer()
+        {
+            string connstring = "Server=127.0.0.1;Uid=root;Pwd=;Database=stundenmanager";
+            string commandgetlehrer = "SELECT * FROM lehrer";
+
+            try
+            {
+                using (var conn = new MySqlConnection(connstring))
+                {
+                    conn.Open();
+                    using (var cmd = new MySqlCommand(commandgetlehrer, conn))
+                    {
+                        using (var reader = cmd.ExecuteReader())
+                        {
+                            var table = new DataTable();
+                            table.Load(reader); 
+                            dataGridView1.DataSource = table;
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Fehler beim Laden der Lehrerliste: " + ex.Message, "Fehler", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
     }
 }
